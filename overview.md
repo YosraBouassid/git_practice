@@ -1,13 +1,16 @@
 # title of the project
 + first
 + second
-1 k
-2 m
-3 5
 
-* fi *
+# list
+1. k
+2. m
+3. 5
 
-** sec **
+*figgggg*
+
+
+**sec**
 ~ o ~
 ## Usage
 Please follow these steps to get your application up and running.
